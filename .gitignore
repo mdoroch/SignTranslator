@@ -8,6 +8,8 @@
 !.yarn/releases
 !.yarn/versions
 
+.next 
+node_modules
 # testing
 /coverage
 
